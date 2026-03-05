@@ -1,0 +1,54 @@
+# ========================
+# Data Files (your raw data)
+# ========================
+*.xlsx
+*.xls
+*.json
+*.xml
+*.csv
+
+# Alternative Data Upload
+# data/raw/
+# data/sensitive/
+
+# ========================
+# Jupyter Notebook
+# ========================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ========================
+# Anaconda / Virtual Envs
+# ========================
+.env
+.venv
+env/
+venv/
+anaconda/
+*.conda
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+*.code-workspace
+
+# ========================
+# OS Files
+# ========================
+.DS_Store          # Mac
+Thumbs.db          # Windows
+desktop.ini        # Windows
