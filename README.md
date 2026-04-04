@@ -21,6 +21,7 @@ including crossing type, volume, and geographic information.
 ---
 
 ## Repository Structure
+```
 Boarder-Crossing-Data-Mining/
 │
 ├── data/
@@ -36,7 +37,6 @@ Boarder-Crossing-Data-Mining/
 │
 ├── .gitignore
 └── README.md
-
 ---
 
 ## Setup Instructions
