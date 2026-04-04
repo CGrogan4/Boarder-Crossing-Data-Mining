@@ -38,8 +38,10 @@ Boarder-Crossing-Data-Mining/
 ├── .gitignore
 └── README.md
 ---
+```
 
-## Setup Instructions
+
+## Project Status
 
 ### 1. Prerequisites
 Make sure you have the following installed:
@@ -51,7 +53,6 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/CGrogan4/Boarder-Crossing-Data-Mining.git
 cd Boarder-Crossing-Data-Mining
-```
 
 ### 3. Install Required Libraries
 Open **Anaconda Prompt** and run:
